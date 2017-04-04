@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeRanger.Models", "Ageranger.Models\AgeRanger.Models.csproj", "{423D5D5A-47F9-4111-8B58-EA6A8438ACD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeRanger.DTO", "AgeRanger.DTO\AgeRanger.DTO.csproj", "{C92D3FA5-D079-4678-9089-6A8558302D53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeRanger.Services", "AgeRanger.Services\AgeRanger.Services.csproj", "{406D15C9-9D00-470E-9C83-9D4171CBA011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeRanger.ServicesTests", "AgeRanger.ServicesTests\AgeRanger.ServicesTests.csproj", "{C162CD26-B37A-437A-9183-B6E8D3BB9AC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeRanger.WebApp", "AgeRanger.WebApp\AgeRanger.WebApp.csproj", "{185795C7-1DB1-4F78-A05B-F1EF22E3DF9F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Help file", "Help file", "{C85255D2-6F44-48C3-9AAF-36E203A24B5A}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{423D5D5A-47F9-4111-8B58-EA6A8438ACD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423D5D5A-47F9-4111-8B58-EA6A8438ACD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423D5D5A-47F9-4111-8B58-EA6A8438ACD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423D5D5A-47F9-4111-8B58-EA6A8438ACD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C92D3FA5-D079-4678-9089-6A8558302D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92D3FA5-D079-4678-9089-6A8558302D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92D3FA5-D079-4678-9089-6A8558302D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92D3FA5-D079-4678-9089-6A8558302D53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406D15C9-9D00-470E-9C83-9D4171CBA011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406D15C9-9D00-470E-9C83-9D4171CBA011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406D15C9-9D00-470E-9C83-9D4171CBA011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406D15C9-9D00-470E-9C83-9D4171CBA011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C162CD26-B37A-437A-9183-B6E8D3BB9AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C162CD26-B37A-437A-9183-B6E8D3BB9AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C162CD26-B37A-437A-9183-B6E8D3BB9AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C162CD26-B37A-437A-9183-B6E8D3BB9AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185795C7-1DB1-4F78-A05B-F1EF22E3DF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185795C7-1DB1-4F78-A05B-F1EF22E3DF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185795C7-1DB1-4F78-A05B-F1EF22E3DF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185795C7-1DB1-4F78-A05B-F1EF22E3DF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
